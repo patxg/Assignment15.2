@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44b8497f7d5469a48a1956d177baea6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295203
+  packageName: 'Runner Clash Template : Hypercasual Starter Kit'
+  packageVersion: 1.0
+  assetPath: Assets/RoyalCod/Template_RunnerClash/Scripts/Controllers/LevelLoader.cs
+  uploadId: 709528

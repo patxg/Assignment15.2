@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d254b14a7940004eadb92294795fa9b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Demo/Art/Animations/JumpPreview.anim
+  uploadId: 701437

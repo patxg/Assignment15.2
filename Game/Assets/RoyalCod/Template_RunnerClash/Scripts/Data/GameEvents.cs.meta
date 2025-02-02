@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dd74af798ca28ad49a5320897bbcf3c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295203
+  packageName: 'Runner Clash Template : Hypercasual Starter Kit'
+  packageVersion: 1.0
+  assetPath: Assets/RoyalCod/Template_RunnerClash/Scripts/Data/GameEvents.cs
+  uploadId: 709528

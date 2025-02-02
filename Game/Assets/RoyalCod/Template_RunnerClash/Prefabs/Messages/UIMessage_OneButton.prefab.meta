@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b17574166fcf45d47bb75de040bb8f95
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295203
+  packageName: 'Runner Clash Template : Hypercasual Starter Kit'
+  packageVersion: 1.0
+  assetPath: Assets/RoyalCod/Template_RunnerClash/Prefabs/Messages/UIMessage_OneButton.prefab
+  uploadId: 709528

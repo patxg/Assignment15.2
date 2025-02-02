@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc4d2ad42e9420d438cb15b0e240fd17
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Art/Animations/ClimbUpRight.anim
+  uploadId: 701437

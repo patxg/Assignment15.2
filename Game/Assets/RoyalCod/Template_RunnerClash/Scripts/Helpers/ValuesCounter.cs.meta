@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bda2ac3b7745988459f00ac94dd7b1c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295203
+  packageName: 'Runner Clash Template : Hypercasual Starter Kit'
+  packageVersion: 1.0
+  assetPath: Assets/RoyalCod/Template_RunnerClash/Scripts/Helpers/ValuesCounter.cs
+  uploadId: 709528

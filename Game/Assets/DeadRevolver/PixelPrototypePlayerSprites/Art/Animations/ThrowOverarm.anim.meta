@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8240bf16d41e484fbedc680421f552e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Art/Animations/ThrowOverarm.anim
+  uploadId: 701437

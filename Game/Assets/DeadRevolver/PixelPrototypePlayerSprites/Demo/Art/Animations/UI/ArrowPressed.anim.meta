@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3af95f5e634aa446b578331f907a036
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Demo/Art/Animations/UI/ArrowPressed.anim
+  uploadId: 701437

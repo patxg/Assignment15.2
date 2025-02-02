@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d50920f3965b3a341a9a7b868b21cca9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Demo/Art/Animations/WallJumpPreview.anim
+  uploadId: 701437

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 25760c84e9b358d4e9f2d50694209542
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295203
+  packageName: 'Runner Clash Template : Hypercasual Starter Kit'
+  packageVersion: 1.0
+  assetPath: Assets/RoyalCod/Template_RunnerClash/Scripts/Helpers/PoolOfObjects.cs
+  uploadId: 709528

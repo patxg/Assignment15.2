@@ -1,0 +1,1074 @@
+fileFormatVersion: 2
+guid: 1c16510852b990f48b2663de8a1c34f6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Weapons_Frame_0
+    originalName: 
+    pivot: {x: 0.26086956, y: -7.3999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 110
+      width: 23
+      height: 5
+    spriteID: 7f0f807a15a39f049a0243315acfd333
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 110}
+  - name: Weapons_Frame_1
+    originalName: 
+    pivot: {x: 0.23076923, y: -1.4666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 68
+      width: 26
+      height: 15
+    spriteID: 4c3b59cc3087f4a41889c615adea91a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 68}
+  - name: Weapons_Frame_2
+    originalName: 
+    pivot: {x: -0.33333322, y: -0.7777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 68
+      width: 15
+      height: 27
+    spriteID: 5de167af598affe4a8a6cf5be59c6ae9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 68}
+  - name: Weapons_Frame_3
+    originalName: 
+    pivot: {x: -0.99999976, y: -0.8965517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 160
+      width: 8
+      height: 29
+    spriteID: 7869a2fd82369834ba048b5c67b81455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 160}
+  - name: Weapons_Frame_4
+    originalName: 
+    pivot: {x: -0.23076923, y: -0.86206895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 103
+      width: 13
+      height: 29
+    spriteID: dbe76de9b1ccea54a81e86f103fd07e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 103}
+  - name: Weapons_Frame_5
+    originalName: 
+    pivot: {x: -0.14285702, y: -1.0799999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 140
+      width: 14
+      height: 25
+    spriteID: 636a84089fd971842872a15c31869bd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 140}
+  - name: Weapons_Frame_6
+    originalName: 
+    pivot: {x: 0.15789473, y: -1.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 68
+      width: 19
+      height: 21
+    spriteID: 83e852d9ecfc4d54991880a319102ec5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 68}
+  - name: Weapons_Frame_7
+    originalName: 
+    pivot: {x: -0.14285702, y: -1.0799999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 173
+      width: 14
+      height: 25
+    spriteID: 68125817d15ed8441aa937d6792e39fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 173}
+  - name: Weapons_Frame_8
+    originalName: 
+    pivot: {x: 0.15789473, y: -1.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 68
+      width: 19
+      height: 21
+    spriteID: 64ff3d63d68b7c04399ee268e56d4940
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 68}
+  - name: Weapons_Frame_9
+    originalName: 
+    pivot: {x: -0.14285702, y: -1.0799999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 206
+      width: 14
+      height: 25
+    spriteID: b77d4ebef561bd343864b3fb9897a16e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 206}
+  - name: Weapons_Frame_10
+    originalName: 
+    pivot: {x: 0.15789473, y: -1.3809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 68
+      width: 19
+      height: 21
+    spriteID: 437b3ea3583c792478bff856b2b047c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 68}
+  - name: Weapons_Frame_11
+    originalName: 
+    pivot: {x: 0.38461536, y: -1.8235294}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 4
+      width: 26
+      height: 17
+    spriteID: 3f0fb53153813a24f9071e04a9bb9e7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 4}
+  - name: Weapons_Frame_12
+    originalName: 
+    pivot: {x: 0.35999998, y: -0.86206895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 4
+      width: 25
+      height: 29
+    spriteID: c2689577e3b081549a9d9c0822ed4ef6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 4}
+  - name: Weapons_Frame_13
+    originalName: 
+    pivot: {x: 0.23255813, y: -0.86206895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 43
+      height: 29
+    spriteID: 8d14b696b2f6ba443bf1a3e57a3485df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Weapons_Frame_14
+    originalName: 
+    pivot: {x: 0.3, y: -0.86206895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 4
+      width: 40
+      height: 29
+    spriteID: f2d65dab750904047b647120ca3bf120
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 4}
+  - name: Weapons_Frame_15
+    originalName: 
+    pivot: {x: 0.35000002, y: -0.86206895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 4
+      width: 40
+      height: 29
+    spriteID: 8ce17a5413ae2d1488d8ef6eeb4fcba9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 4}
+  - name: Weapons_Frame_16
+    originalName: 
+    pivot: {x: 0.49999988, y: -19}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 249
+      width: 8
+      height: 2
+    spriteID: d54881b4332baf34a9a6366e3432f426
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 249}
+  - name: Weapons_Frame_17
+    originalName: 
+    pivot: {x: 0.5555557, y: -19}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 239
+      width: 9
+      height: 2
+    spriteID: 0f212dec8f382704eaf502f7e7e38a44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 239}
+  - name: Weapons_Frame_18
+    originalName: 
+    pivot: {x: 0.43749994, y: -1.1304349}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 97
+      width: 16
+      height: 23
+    spriteID: 96191b8f756973e47a1ed56dfb57094d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 97}
+  - name: Weapons_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -1.0416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 128
+      width: 12
+      height: 24
+    spriteID: b9c38f27fcc9cd3449663d4a3d7a4d95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 128}
+  - name: Weapons_Frame_20
+    originalName: 
+    pivot: {x: 0.45833337, y: -1.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 4
+      width: 24
+      height: 18
+    spriteID: 0638b1da9f9b95e47ac53acbc462631b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 4}
+  - name: Weapons_Frame_21
+    originalName: 
+    pivot: {x: 0.45833337, y: -1.8125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 68
+      width: 24
+      height: 16
+    spriteID: c0b9a3d2d571e6b40aa538506541eef8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 68}
+  - name: Weapons_Frame_22
+    originalName: 
+    pivot: {x: 0.51851857, y: -6.7999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 110
+      width: 27
+      height: 5
+    spriteID: 64e1b446c13ff0a4db13c27d9c6962d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 110}
+  - name: Weapons_Frame_23
+    originalName: 
+    pivot: {x: 0.55172414, y: -6.7999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 97
+      width: 29
+      height: 5
+    spriteID: 05c8e43a1137c004fb707cb417c0f3ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 97}
+  - name: Weapons_Frame_24
+    originalName: 
+    pivot: {x: 0.53571427, y: -6.7999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 97
+      width: 28
+      height: 5
+    spriteID: abb5979cb99c2bf40ad762fb14b874e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 97}
+  - name: Weapons_Frame_25
+    originalName: 
+    pivot: {x: 0.55172414, y: -6.7999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 97
+      width: 29
+      height: 5
+    spriteID: a1183d5fef1900045bfffe534078f942
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 97}
+  - name: Weapons_Frame_26
+    originalName: 
+    pivot: {x: 0.33333337, y: -3.181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 97
+      width: 24
+      height: 11
+    spriteID: f71409174a6a04c4c9850e4f154c2789
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 97}
+  - name: Weapons_Frame_27
+    originalName: 
+    pivot: {x: 0.27272728, y: -2.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 68
+      width: 22
+      height: 16
+    spriteID: 9c2c57b6b8cddcc498ed131c23923b79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 68}
+  - name: Weapons_Frame_28
+    originalName: 
+    pivot: {x: 0.27272728, y: -1.6842105}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 41
+      width: 22
+      height: 19
+    spriteID: d4e4198afc0dac3439a29f714935de46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 41}
+  - name: Weapons_Frame_29
+    originalName: 
+    pivot: {x: 0.30434778, y: -2.1333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 97
+      width: 23
+      height: 15
+    spriteID: dbea61e914dee5f488298bd1cf66864b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 97}
+  - name: Weapons_Frame_30
+    originalName: 
+    pivot: {x: 0.2380953, y: -1.6315788}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 68
+      width: 21
+      height: 19
+    spriteID: c08be89da4ce8594dad7687e666d3af1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 68}
+  - name: Weapons_Frame_31
+    originalName: 
+    pivot: {x: 0.2380953, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 97
+      width: 21
+      height: 14
+    spriteID: 5b47095c3f56c5945a4e2fa794389775
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 97}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -2096024703
+    name: Weapons
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Weapons_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 37
+        width: 23
+        height: 5
+      spriteId: 7f0f807a15a39f049a0243315acfd333
+    - name: Weapons_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 22
+        width: 26
+        height: 15
+      spriteId: 4c3b59cc3087f4a41889c615adea91a1
+    - name: Weapons_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 53
+        y: 21
+        width: 15
+        height: 27
+      spriteId: 5de167af598affe4a8a6cf5be59c6ae9
+    - name: Weapons_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 56
+        y: 26
+        width: 8
+        height: 29
+      spriteId: 7869a2fd82369834ba048b5c67b81455
+    - name: Weapons_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 51
+        y: 25
+        width: 13
+        height: 29
+      spriteId: dbe76de9b1ccea54a81e86f103fd07e3
+    - name: Weapons_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 50
+        y: 27
+        width: 14
+        height: 25
+      spriteId: 636a84089fd971842872a15c31869bd4
+    - name: Weapons_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 29
+        width: 19
+        height: 21
+      spriteId: 83e852d9ecfc4d54991880a319102ec5
+    - name: Weapons_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 50
+        y: 27
+        width: 14
+        height: 25
+      spriteId: 68125817d15ed8441aa937d6792e39fb
+    - name: Weapons_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 29
+        width: 19
+        height: 21
+      spriteId: 64ff3d63d68b7c04399ee268e56d4940
+    - name: Weapons_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 50
+        y: 27
+        width: 14
+        height: 25
+      spriteId: b77d4ebef561bd343864b3fb9897a16e
+    - name: Weapons_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 29
+        width: 19
+        height: 21
+      spriteId: 437b3ea3583c792478bff856b2b047c3
+    - name: Weapons_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 38
+        y: 31
+        width: 26
+        height: 17
+      spriteId: 3f0fb53153813a24f9071e04a9bb9e7a
+    - name: Weapons_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 25
+        width: 25
+        height: 29
+      spriteId: c2689577e3b081549a9d9c0822ed4ef6
+    - name: Weapons_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 38
+        y: 25
+        width: 43
+        height: 29
+      spriteId: 8d14b696b2f6ba443bf1a3e57a3485df
+    - name: Weapons_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 25
+        width: 40
+        height: 29
+      spriteId: f2d65dab750904047b647120ca3bf120
+    - name: Weapons_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 25
+        width: 40
+        height: 29
+      spriteId: 8ce17a5413ae2d1488d8ef6eeb4fcba9
+    - name: Weapons_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 44
+        y: 38
+        width: 8
+        height: 2
+      spriteId: d54881b4332baf34a9a6366e3432f426
+    - name: Weapons_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 38
+        width: 9
+        height: 2
+      spriteId: 0f212dec8f382704eaf502f7e7e38a44
+    - name: Weapons_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 26
+        width: 16
+        height: 23
+      spriteId: 96191b8f756973e47a1ed56dfb57094d
+    - name: Weapons_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 25
+        width: 12
+        height: 24
+      spriteId: b9c38f27fcc9cd3449663d4a3d7a4d95
+    - name: Weapons_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 28
+        width: 24
+        height: 18
+      spriteId: 0638b1da9f9b95e47ac53acbc462631b
+    - name: Weapons_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 29
+        width: 24
+        height: 16
+      spriteId: c0b9a3d2d571e6b40aa538506541eef8
+    - name: Weapons_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 27
+        height: 5
+      spriteId: 64e1b446c13ff0a4db13c27d9c6962d5
+    - name: Weapons_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 32
+        y: 34
+        width: 29
+        height: 5
+      spriteId: 05c8e43a1137c004fb707cb417c0f3ce
+    - name: Weapons_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 34
+        width: 28
+        height: 5
+      spriteId: abb5979cb99c2bf40ad762fb14b874e4
+    - name: Weapons_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 32
+        y: 34
+        width: 29
+        height: 5
+      spriteId: a1183d5fef1900045bfffe534078f942
+    - name: Weapons_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 40
+        y: 35
+        width: 24
+        height: 11
+      spriteId: f71409174a6a04c4c9850e4f154c2789
+    - name: Weapons_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 33
+        width: 22
+        height: 16
+      spriteId: 9c2c57b6b8cddcc498ed131c23923b79
+    - name: Weapons_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 32
+        width: 22
+        height: 19
+      spriteId: d4e4198afc0dac3439a29f714935de46
+    - name: Weapons_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 32
+        width: 23
+        height: 15
+      spriteId: dbea61e914dee5f488298bd1cf66864b
+    - name: Weapons_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 31
+        width: 21
+        height: 19
+      spriteId: c08be89da4ce8594dad7687e666d3af1
+    - name: Weapons_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 43
+        y: 35
+        width: 21
+        height: 14
+      spriteId: 5b47095c3f56c5945a4e2fa794389775
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 84}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Art/Aseprite/Weapons.aseprite
+  uploadId: 701437

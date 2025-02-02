@@ -1,0 +1,2403 @@
+{ "frames": {
+   "PlayerCombat 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 1.aseprite": {
+    "frame": { "x": 96, "y": 0, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 2.aseprite": {
+    "frame": { "x": 192, "y": 0, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 3.aseprite": {
+    "frame": { "x": 288, "y": 0, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 4.aseprite": {
+    "frame": { "x": 384, "y": 0, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 5.aseprite": {
+    "frame": { "x": 480, "y": 0, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 6.aseprite": {
+    "frame": { "x": 576, "y": 0, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 7.aseprite": {
+    "frame": { "x": 0, "y": 84, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 8.aseprite": {
+    "frame": { "x": 96, "y": 84, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 9.aseprite": {
+    "frame": { "x": 192, "y": 84, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 10.aseprite": {
+    "frame": { "x": 288, "y": 84, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 11.aseprite": {
+    "frame": { "x": 384, "y": 84, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 12.aseprite": {
+    "frame": { "x": 480, "y": 84, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 13.aseprite": {
+    "frame": { "x": 576, "y": 84, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 14.aseprite": {
+    "frame": { "x": 672, "y": 84, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 15.aseprite": {
+    "frame": { "x": 0, "y": 168, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 16.aseprite": {
+    "frame": { "x": 96, "y": 168, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 17.aseprite": {
+    "frame": { "x": 192, "y": 168, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 18.aseprite": {
+    "frame": { "x": 288, "y": 168, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 19.aseprite": {
+    "frame": { "x": 384, "y": 168, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 20.aseprite": {
+    "frame": { "x": 480, "y": 168, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 21.aseprite": {
+    "frame": { "x": 576, "y": 168, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 22.aseprite": {
+    "frame": { "x": 672, "y": 168, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 23.aseprite": {
+    "frame": { "x": 0, "y": 252, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 24.aseprite": {
+    "frame": { "x": 96, "y": 252, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 25.aseprite": {
+    "frame": { "x": 192, "y": 252, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 26.aseprite": {
+    "frame": { "x": 288, "y": 252, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 27.aseprite": {
+    "frame": { "x": 384, "y": 252, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 28.aseprite": {
+    "frame": { "x": 480, "y": 252, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 29.aseprite": {
+    "frame": { "x": 576, "y": 252, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 30.aseprite": {
+    "frame": { "x": 672, "y": 252, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 31.aseprite": {
+    "frame": { "x": 0, "y": 336, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 32.aseprite": {
+    "frame": { "x": 96, "y": 336, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 33.aseprite": {
+    "frame": { "x": 192, "y": 336, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 34.aseprite": {
+    "frame": { "x": 288, "y": 336, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 35.aseprite": {
+    "frame": { "x": 384, "y": 336, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 36.aseprite": {
+    "frame": { "x": 480, "y": 336, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 37.aseprite": {
+    "frame": { "x": 0, "y": 420, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 38.aseprite": {
+    "frame": { "x": 96, "y": 420, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 39.aseprite": {
+    "frame": { "x": 192, "y": 420, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 40.aseprite": {
+    "frame": { "x": 288, "y": 420, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 41.aseprite": {
+    "frame": { "x": 384, "y": 420, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 42.aseprite": {
+    "frame": { "x": 480, "y": 420, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 43.aseprite": {
+    "frame": { "x": 0, "y": 504, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 44.aseprite": {
+    "frame": { "x": 96, "y": 504, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 45.aseprite": {
+    "frame": { "x": 192, "y": 504, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 46.aseprite": {
+    "frame": { "x": 288, "y": 504, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 47.aseprite": {
+    "frame": { "x": 384, "y": 504, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 48.aseprite": {
+    "frame": { "x": 480, "y": 504, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 49.aseprite": {
+    "frame": { "x": 0, "y": 588, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 50.aseprite": {
+    "frame": { "x": 96, "y": 588, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 51.aseprite": {
+    "frame": { "x": 192, "y": 588, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 52.aseprite": {
+    "frame": { "x": 288, "y": 588, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 53.aseprite": {
+    "frame": { "x": 384, "y": 588, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 54.aseprite": {
+    "frame": { "x": 480, "y": 588, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 55.aseprite": {
+    "frame": { "x": 576, "y": 588, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 56.aseprite": {
+    "frame": { "x": 672, "y": 588, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 57.aseprite": {
+    "frame": { "x": 0, "y": 672, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 58.aseprite": {
+    "frame": { "x": 96, "y": 672, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 59.aseprite": {
+    "frame": { "x": 192, "y": 672, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 60.aseprite": {
+    "frame": { "x": 288, "y": 672, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 61.aseprite": {
+    "frame": { "x": 384, "y": 672, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 62.aseprite": {
+    "frame": { "x": 480, "y": 672, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 63.aseprite": {
+    "frame": { "x": 576, "y": 672, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 64.aseprite": {
+    "frame": { "x": 672, "y": 672, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 65.aseprite": {
+    "frame": { "x": 0, "y": 756, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 66.aseprite": {
+    "frame": { "x": 96, "y": 756, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 67.aseprite": {
+    "frame": { "x": 192, "y": 756, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 68.aseprite": {
+    "frame": { "x": 288, "y": 756, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 69.aseprite": {
+    "frame": { "x": 384, "y": 756, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 70.aseprite": {
+    "frame": { "x": 480, "y": 756, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 71.aseprite": {
+    "frame": { "x": 0, "y": 840, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 72.aseprite": {
+    "frame": { "x": 96, "y": 840, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 73.aseprite": {
+    "frame": { "x": 192, "y": 840, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 74.aseprite": {
+    "frame": { "x": 288, "y": 840, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 75.aseprite": {
+    "frame": { "x": 384, "y": 840, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 76.aseprite": {
+    "frame": { "x": 0, "y": 924, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 77.aseprite": {
+    "frame": { "x": 96, "y": 924, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 78.aseprite": {
+    "frame": { "x": 192, "y": 924, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 79.aseprite": {
+    "frame": { "x": 288, "y": 924, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 80.aseprite": {
+    "frame": { "x": 384, "y": 924, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 81.aseprite": {
+    "frame": { "x": 0, "y": 1008, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 82.aseprite": {
+    "frame": { "x": 96, "y": 1008, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 83.aseprite": {
+    "frame": { "x": 192, "y": 1008, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 84.aseprite": {
+    "frame": { "x": 288, "y": 1008, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 85.aseprite": {
+    "frame": { "x": 384, "y": 1008, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 86.aseprite": {
+    "frame": { "x": 480, "y": 1008, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 87.aseprite": {
+    "frame": { "x": 576, "y": 1008, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 88.aseprite": {
+    "frame": { "x": 672, "y": 1008, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 89.aseprite": {
+    "frame": { "x": 0, "y": 1092, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 90.aseprite": {
+    "frame": { "x": 96, "y": 1092, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 91.aseprite": {
+    "frame": { "x": 192, "y": 1092, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 92.aseprite": {
+    "frame": { "x": 288, "y": 1092, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 93.aseprite": {
+    "frame": { "x": 384, "y": 1092, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 94.aseprite": {
+    "frame": { "x": 0, "y": 1176, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 95.aseprite": {
+    "frame": { "x": 0, "y": 1260, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 96.aseprite": {
+    "frame": { "x": 0, "y": 1344, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 97.aseprite": {
+    "frame": { "x": 0, "y": 1428, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 98.aseprite": {
+    "frame": { "x": 96, "y": 1428, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 99.aseprite": {
+    "frame": { "x": 192, "y": 1428, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 100.aseprite": {
+    "frame": { "x": 288, "y": 1428, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 101.aseprite": {
+    "frame": { "x": 0, "y": 1512, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 102.aseprite": {
+    "frame": { "x": 96, "y": 1512, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 103.aseprite": {
+    "frame": { "x": 192, "y": 1512, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 104.aseprite": {
+    "frame": { "x": 288, "y": 1512, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 105.aseprite": {
+    "frame": { "x": 384, "y": 1512, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 106.aseprite": {
+    "frame": { "x": 480, "y": 1512, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 107.aseprite": {
+    "frame": { "x": 0, "y": 1596, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 108.aseprite": {
+    "frame": { "x": 96, "y": 1596, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 109.aseprite": {
+    "frame": { "x": 192, "y": 1596, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 110.aseprite": {
+    "frame": { "x": 288, "y": 1596, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 111.aseprite": {
+    "frame": { "x": 384, "y": 1596, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 112.aseprite": {
+    "frame": { "x": 480, "y": 1596, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 113.aseprite": {
+    "frame": { "x": 0, "y": 1680, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 114.aseprite": {
+    "frame": { "x": 96, "y": 1680, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 115.aseprite": {
+    "frame": { "x": 192, "y": 1680, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 116.aseprite": {
+    "frame": { "x": 288, "y": 1680, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 117.aseprite": {
+    "frame": { "x": 384, "y": 1680, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 118.aseprite": {
+    "frame": { "x": 480, "y": 1680, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 119.aseprite": {
+    "frame": { "x": 0, "y": 1764, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 120.aseprite": {
+    "frame": { "x": 96, "y": 1764, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 121.aseprite": {
+    "frame": { "x": 192, "y": 1764, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 122.aseprite": {
+    "frame": { "x": 288, "y": 1764, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 123.aseprite": {
+    "frame": { "x": 384, "y": 1764, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 124.aseprite": {
+    "frame": { "x": 480, "y": 1764, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 125.aseprite": {
+    "frame": { "x": 0, "y": 1848, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 126.aseprite": {
+    "frame": { "x": 96, "y": 1848, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 127.aseprite": {
+    "frame": { "x": 192, "y": 1848, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 50
+   },
+   "PlayerCombat 128.aseprite": {
+    "frame": { "x": 288, "y": 1848, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 129.aseprite": {
+    "frame": { "x": 384, "y": 1848, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 130.aseprite": {
+    "frame": { "x": 0, "y": 1932, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 131.aseprite": {
+    "frame": { "x": 0, "y": 2016, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 132.aseprite": {
+    "frame": { "x": 96, "y": 2016, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 133.aseprite": {
+    "frame": { "x": 192, "y": 2016, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 134.aseprite": {
+    "frame": { "x": 0, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 135.aseprite": {
+    "frame": { "x": 96, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 136.aseprite": {
+    "frame": { "x": 192, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 137.aseprite": {
+    "frame": { "x": 288, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 138.aseprite": {
+    "frame": { "x": 384, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 139.aseprite": {
+    "frame": { "x": 480, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 140.aseprite": {
+    "frame": { "x": 576, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 141.aseprite": {
+    "frame": { "x": 672, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 142.aseprite": {
+    "frame": { "x": 768, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 143.aseprite": {
+    "frame": { "x": 864, "y": 2100, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 144.aseprite": {
+    "frame": { "x": 0, "y": 2184, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 145.aseprite": {
+    "frame": { "x": 96, "y": 2184, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 146.aseprite": {
+    "frame": { "x": 192, "y": 2184, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 147.aseprite": {
+    "frame": { "x": 288, "y": 2184, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 148.aseprite": {
+    "frame": { "x": 384, "y": 2184, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 149.aseprite": {
+    "frame": { "x": 480, "y": 2184, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 150.aseprite": {
+    "frame": { "x": 576, "y": 2184, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 151.aseprite": {
+    "frame": { "x": 672, "y": 2184, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 152.aseprite": {
+    "frame": { "x": 768, "y": 2184, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 153.aseprite": {
+    "frame": { "x": 0, "y": 2268, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 154.aseprite": {
+    "frame": { "x": 96, "y": 2268, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 155.aseprite": {
+    "frame": { "x": 192, "y": 2268, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 156.aseprite": {
+    "frame": { "x": 288, "y": 2268, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 157.aseprite": {
+    "frame": { "x": 384, "y": 2268, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 158.aseprite": {
+    "frame": { "x": 480, "y": 2268, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 159.aseprite": {
+    "frame": { "x": 576, "y": 2268, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 160.aseprite": {
+    "frame": { "x": 672, "y": 2268, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 161.aseprite": {
+    "frame": { "x": 0, "y": 2352, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 162.aseprite": {
+    "frame": { "x": 96, "y": 2352, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 163.aseprite": {
+    "frame": { "x": 192, "y": 2352, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 164.aseprite": {
+    "frame": { "x": 288, "y": 2352, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 165.aseprite": {
+    "frame": { "x": 384, "y": 2352, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 166.aseprite": {
+    "frame": { "x": 480, "y": 2352, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 167.aseprite": {
+    "frame": { "x": 576, "y": 2352, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 168.aseprite": {
+    "frame": { "x": 672, "y": 2352, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 169.aseprite": {
+    "frame": { "x": 768, "y": 2352, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 170.aseprite": {
+    "frame": { "x": 0, "y": 2436, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 171.aseprite": {
+    "frame": { "x": 96, "y": 2436, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 172.aseprite": {
+    "frame": { "x": 192, "y": 2436, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 173.aseprite": {
+    "frame": { "x": 288, "y": 2436, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 174.aseprite": {
+    "frame": { "x": 384, "y": 2436, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 175.aseprite": {
+    "frame": { "x": 480, "y": 2436, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 176.aseprite": {
+    "frame": { "x": 0, "y": 2520, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 177.aseprite": {
+    "frame": { "x": 96, "y": 2520, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 178.aseprite": {
+    "frame": { "x": 192, "y": 2520, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 179.aseprite": {
+    "frame": { "x": 288, "y": 2520, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 180.aseprite": {
+    "frame": { "x": 0, "y": 2604, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 181.aseprite": {
+    "frame": { "x": 96, "y": 2604, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 182.aseprite": {
+    "frame": { "x": 192, "y": 2604, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 183.aseprite": {
+    "frame": { "x": 288, "y": 2604, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 184.aseprite": {
+    "frame": { "x": 384, "y": 2604, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 185.aseprite": {
+    "frame": { "x": 480, "y": 2604, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 186.aseprite": {
+    "frame": { "x": 576, "y": 2604, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 187.aseprite": {
+    "frame": { "x": 0, "y": 2688, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 188.aseprite": {
+    "frame": { "x": 96, "y": 2688, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 189.aseprite": {
+    "frame": { "x": 192, "y": 2688, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 190.aseprite": {
+    "frame": { "x": 0, "y": 2772, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 191.aseprite": {
+    "frame": { "x": 96, "y": 2772, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 192.aseprite": {
+    "frame": { "x": 192, "y": 2772, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 193.aseprite": {
+    "frame": { "x": 0, "y": 2856, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 150
+   },
+   "PlayerCombat 194.aseprite": {
+    "frame": { "x": 96, "y": 2856, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 150
+   },
+   "PlayerCombat 195.aseprite": {
+    "frame": { "x": 192, "y": 2856, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 150
+   },
+   "PlayerCombat 196.aseprite": {
+    "frame": { "x": 288, "y": 2856, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 150
+   },
+   "PlayerCombat 197.aseprite": {
+    "frame": { "x": 384, "y": 2856, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 150
+   },
+   "PlayerCombat 198.aseprite": {
+    "frame": { "x": 480, "y": 2856, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 150
+   },
+   "PlayerCombat 199.aseprite": {
+    "frame": { "x": 576, "y": 2856, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 150
+   },
+   "PlayerCombat 200.aseprite": {
+    "frame": { "x": 0, "y": 2940, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 201.aseprite": {
+    "frame": { "x": 96, "y": 2940, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 202.aseprite": {
+    "frame": { "x": 192, "y": 2940, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 203.aseprite": {
+    "frame": { "x": 288, "y": 2940, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 204.aseprite": {
+    "frame": { "x": 384, "y": 2940, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 205.aseprite": {
+    "frame": { "x": 480, "y": 2940, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 206.aseprite": {
+    "frame": { "x": 576, "y": 2940, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 207.aseprite": {
+    "frame": { "x": 672, "y": 2940, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 208.aseprite": {
+    "frame": { "x": 0, "y": 3024, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 209.aseprite": {
+    "frame": { "x": 96, "y": 3024, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 210.aseprite": {
+    "frame": { "x": 192, "y": 3024, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 211.aseprite": {
+    "frame": { "x": 288, "y": 3024, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 212.aseprite": {
+    "frame": { "x": 384, "y": 3024, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 213.aseprite": {
+    "frame": { "x": 480, "y": 3024, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 214.aseprite": {
+    "frame": { "x": 576, "y": 3024, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 215.aseprite": {
+    "frame": { "x": 672, "y": 3024, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 216.aseprite": {
+    "frame": { "x": 0, "y": 3108, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 217.aseprite": {
+    "frame": { "x": 96, "y": 3108, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 218.aseprite": {
+    "frame": { "x": 192, "y": 3108, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 219.aseprite": {
+    "frame": { "x": 288, "y": 3108, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 220.aseprite": {
+    "frame": { "x": 384, "y": 3108, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 221.aseprite": {
+    "frame": { "x": 480, "y": 3108, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 222.aseprite": {
+    "frame": { "x": 576, "y": 3108, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 223.aseprite": {
+    "frame": { "x": 672, "y": 3108, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 224.aseprite": {
+    "frame": { "x": 0, "y": 3192, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 225.aseprite": {
+    "frame": { "x": 96, "y": 3192, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 226.aseprite": {
+    "frame": { "x": 192, "y": 3192, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 227.aseprite": {
+    "frame": { "x": 288, "y": 3192, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 228.aseprite": {
+    "frame": { "x": 384, "y": 3192, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 229.aseprite": {
+    "frame": { "x": 480, "y": 3192, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 230.aseprite": {
+    "frame": { "x": 576, "y": 3192, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 231.aseprite": {
+    "frame": { "x": 672, "y": 3192, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 232.aseprite": {
+    "frame": { "x": 0, "y": 3276, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 233.aseprite": {
+    "frame": { "x": 0, "y": 3360, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 234.aseprite": {
+    "frame": { "x": 96, "y": 3360, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 235.aseprite": {
+    "frame": { "x": 192, "y": 3360, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 236.aseprite": {
+    "frame": { "x": 288, "y": 3360, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 237.aseprite": {
+    "frame": { "x": 384, "y": 3360, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 238.aseprite": {
+    "frame": { "x": 0, "y": 3444, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 239.aseprite": {
+    "frame": { "x": 96, "y": 3444, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 240.aseprite": {
+    "frame": { "x": 192, "y": 3444, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 241.aseprite": {
+    "frame": { "x": 288, "y": 3444, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 242.aseprite": {
+    "frame": { "x": 384, "y": 3444, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 243.aseprite": {
+    "frame": { "x": 0, "y": 3528, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 244.aseprite": {
+    "frame": { "x": 96, "y": 3528, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 245.aseprite": {
+    "frame": { "x": 192, "y": 3528, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 246.aseprite": {
+    "frame": { "x": 288, "y": 3528, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 247.aseprite": {
+    "frame": { "x": 384, "y": 3528, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 248.aseprite": {
+    "frame": { "x": 480, "y": 3528, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 249.aseprite": {
+    "frame": { "x": 576, "y": 3528, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 250.aseprite": {
+    "frame": { "x": 672, "y": 3528, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 251.aseprite": {
+    "frame": { "x": 768, "y": 3528, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 252.aseprite": {
+    "frame": { "x": 0, "y": 3612, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 253.aseprite": {
+    "frame": { "x": 96, "y": 3612, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 254.aseprite": {
+    "frame": { "x": 192, "y": 3612, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 255.aseprite": {
+    "frame": { "x": 288, "y": 3612, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 256.aseprite": {
+    "frame": { "x": 384, "y": 3612, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 257.aseprite": {
+    "frame": { "x": 480, "y": 3612, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 258.aseprite": {
+    "frame": { "x": 0, "y": 3696, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 259.aseprite": {
+    "frame": { "x": 96, "y": 3696, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 260.aseprite": {
+    "frame": { "x": 192, "y": 3696, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 261.aseprite": {
+    "frame": { "x": 288, "y": 3696, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 262.aseprite": {
+    "frame": { "x": 384, "y": 3696, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 263.aseprite": {
+    "frame": { "x": 480, "y": 3696, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 264.aseprite": {
+    "frame": { "x": 0, "y": 3780, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 265.aseprite": {
+    "frame": { "x": 96, "y": 3780, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 266.aseprite": {
+    "frame": { "x": 192, "y": 3780, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 267.aseprite": {
+    "frame": { "x": 288, "y": 3780, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 268.aseprite": {
+    "frame": { "x": 384, "y": 3780, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 269.aseprite": {
+    "frame": { "x": 480, "y": 3780, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 100
+   },
+   "PlayerCombat 270.aseprite": {
+    "frame": { "x": 0, "y": 3864, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 60
+   },
+   "PlayerCombat 271.aseprite": {
+    "frame": { "x": 96, "y": 3864, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 60
+   },
+   "PlayerCombat 272.aseprite": {
+    "frame": { "x": 192, "y": 3864, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 60
+   },
+   "PlayerCombat 273.aseprite": {
+    "frame": { "x": 288, "y": 3864, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 60
+   },
+   "PlayerCombat 274.aseprite": {
+    "frame": { "x": 384, "y": 3864, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 60
+   },
+   "PlayerCombat 275.aseprite": {
+    "frame": { "x": 0, "y": 3948, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 276.aseprite": {
+    "frame": { "x": 96, "y": 3948, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 277.aseprite": {
+    "frame": { "x": 192, "y": 3948, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 278.aseprite": {
+    "frame": { "x": 288, "y": 3948, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 279.aseprite": {
+    "frame": { "x": 384, "y": 3948, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 280.aseprite": {
+    "frame": { "x": 480, "y": 3948, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 281.aseprite": {
+    "frame": { "x": 576, "y": 3948, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 282.aseprite": {
+    "frame": { "x": 0, "y": 4032, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 283.aseprite": {
+    "frame": { "x": 96, "y": 4032, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 284.aseprite": {
+    "frame": { "x": 192, "y": 4032, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 285.aseprite": {
+    "frame": { "x": 288, "y": 4032, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 286.aseprite": {
+    "frame": { "x": 0, "y": 4116, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 287.aseprite": {
+    "frame": { "x": 96, "y": 4116, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 288.aseprite": {
+    "frame": { "x": 192, "y": 4116, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 289.aseprite": {
+    "frame": { "x": 288, "y": 4116, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 290.aseprite": {
+    "frame": { "x": 384, "y": 4116, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 291.aseprite": {
+    "frame": { "x": 0, "y": 4200, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 292.aseprite": {
+    "frame": { "x": 96, "y": 4200, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 293.aseprite": {
+    "frame": { "x": 192, "y": 4200, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 294.aseprite": {
+    "frame": { "x": 288, "y": 4200, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 70
+   },
+   "PlayerCombat 295.aseprite": {
+    "frame": { "x": 0, "y": 4284, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 296.aseprite": {
+    "frame": { "x": 96, "y": 4284, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 297.aseprite": {
+    "frame": { "x": 192, "y": 4284, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   },
+   "PlayerCombat 298.aseprite": {
+    "frame": { "x": 288, "y": 4284, "w": 96, "h": 84 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 84 },
+    "sourceSize": { "w": 96, "h": 84 },
+    "duration": 80
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.7-x64",
+  "image": "PlayerCombatSheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 960, "h": 4368 },
+  "scale": "1"
+ }
+}

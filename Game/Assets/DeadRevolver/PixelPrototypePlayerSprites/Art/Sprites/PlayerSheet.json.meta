@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a014ad911afa21544b863c4c7beb91bd
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Art/Sprites/PlayerSheet.json
+  uploadId: 701437

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7c34fe46725d464ea953f1cbe1b2de3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Art/Animations/ComboAttackB.anim
+  uploadId: 701437

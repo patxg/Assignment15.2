@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab9ed9f0263d7424e9c22670a465829c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Demo/Art/Animations/Animators/GunFX.controller
+  uploadId: 701437

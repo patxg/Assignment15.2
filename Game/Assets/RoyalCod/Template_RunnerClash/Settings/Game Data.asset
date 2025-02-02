@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6178e93f4cad13341b78bb62d4e8d939, type: 3}
+  m_Name: Game Data
+  m_EditorClassIdentifier: 
+  _manAnimation_Idle: {fileID: 7400000, guid: 1fc2af1dc78d09b4aafccb365e29b208, type: 2}
+  _manAnimation_Run: {fileID: 7400000, guid: 0b86565007e215d4b8364edb4f85c696, type: 2}
+  _manAnimation_Fight: {fileID: 7400000, guid: 471c4fc14cbed2e43be9e364b8d7e730, type: 2}
+  _manAnimation_Win: {fileID: 7400000, guid: 0005ac4cb9cad76428b994d633d82d50, type: 2}
+  _playerManPrefab: {fileID: 8689039794682953882, guid: 590856e9f1b09e642a84049958642532, type: 3}
+  _enemyManPrefab: {fileID: 8892559382419670083, guid: fe593a4560667224e9ea139008203881, type: 3}
+  _menCountLabelPrefab: {fileID: 7363500938798107239, guid: 170731179b6fa594aa1dcf661000d4f7, type: 3}
+  _playerCrowdSpeed: 5
+  _manSpeed: 5
+  _manRotSpeed: 2
+  _killReward: 1
+  _levelPrefabs:
+  - {fileID: 2724706735588905288, guid: d430f087556f79d479e394c99dcecf5b, type: 3}
+  - {fileID: 2724706735588905288, guid: 853f65b90de7ad741abc4a0ee4d88b32, type: 3}
+  - {fileID: 2724706735588905288, guid: 17d1c23911615ab46b80699fdf9e847b, type: 3}
+  _cameraGameOffset: {x: 0, y: 3, z: -5}
+  _cameraFightOffset: {x: 0, y: 4, z: -6}
+  _cameraSpeed: 2.5
+  _positiveColor: {r: 0.09451604, g: 1, b: 0, a: 0.78431374}
+  _negativeColor: {r: 1, g: 0, b: 0, a: 0.78431374}
+  _fightDeathDist: 1.5
+  _metCrowdDist: 5
+  _manFightSpeedModifier: 0.5
+  _manHitMoment: 0.5
+  _killEffectPrefab: {fileID: 5759673285612391400, guid: c7e1f16778af37b4884d62a995110357, type: 3}
+  _killFxColorRandomizer: 0.35
+  _fxLifeDuration: 3
+  _uiPrefab: {fileID: 6445944513630596838, guid: b9edfe1eac1c68849881eccc36633619, type: 3}
+  _oneButtonMessage: {fileID: 1372924375532865144, guid: b17574166fcf45d47bb75de040bb8f95, type: 3}
+  _showMessageDuration: 0.5

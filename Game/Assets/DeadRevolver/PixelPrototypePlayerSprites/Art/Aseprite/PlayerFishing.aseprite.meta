@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 187ff63b7a78a074e96dae23bea9d5ea
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: PlayerFishing_Frame_0
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 4
+      width: 51
+      height: 60
+    spriteID: c24d788315ed52549aee9122ab5fbead
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 4}
+  - name: PlayerFishing_Frame_1
+    originalName: 
+    pivot: {x: 0.6298077, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 104
+      height: 60
+    spriteID: cb6b89e50c917bd408bdf13fedb4567c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: PlayerFishing_Frame_2
+    originalName: 
+    pivot: {x: 1.0078125, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 176
+      width: 64
+      height: 66
+    spriteID: b52b6c65ed1f6164985e5e096ba39db9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 176}
+  - name: PlayerFishing_Frame_3
+    originalName: 
+    pivot: {x: 0.97115386, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 250
+      width: 52
+      height: 76
+    spriteID: 21a55572bf974f94eb5d6c986a01048c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 250}
+  - name: PlayerFishing_Frame_4
+    originalName: 
+    pivot: {x: 0.9903846, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 334
+      width: 52
+      height: 76
+    spriteID: 5ba360f57b85bfd44acc3da0a856b520
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 334}
+  - name: PlayerFishing_Frame_5
+    originalName: 
+    pivot: {x: 0.35333332, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 72
+      width: 75
+      height: 71
+    spriteID: fe8025d4c36c2a449ad4452e7472ca1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 72}
+  - name: PlayerFishing_Frame_6
+    originalName: 
+    pivot: {x: 0.24193546, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 4
+      width: 93
+      height: 34
+    spriteID: 548c56be7ed938646a82c703c354e011
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 4}
+  - name: PlayerFishing_Frame_7
+    originalName: 
+    pivot: {x: 0.21232878, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 72
+      width: 73
+      height: 44
+    spriteID: 5abd8572bcc644a4b9bd9da99e38b7ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 72}
+  - name: PlayerFishing_Frame_8
+    originalName: 
+    pivot: {x: 0.22881354, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 72
+      width: 59
+      height: 57
+    spriteID: c19c605b14f7f134bb75083d8ad2858d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 72}
+  - name: PlayerFishing_Frame_9
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 276
+      y: 4
+      width: 51
+      height: 60
+    spriteID: 27b88c61e42b7c74ba840d1d57dac1ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 4}
+  - name: PlayerFishing_Frame_10
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 4
+      width: 51
+      height: 60
+    spriteID: 403236616d8ca934c84077ea704e5cf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 335, y: 4}
+  - name: PlayerFishing_Frame_11
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 151
+      width: 51
+      height: 59
+    spriteID: 80fb15c5113f76c47983f5cb477d846e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 151}
+  - name: PlayerFishing_Frame_12
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 312
+      y: 151
+      width: 51
+      height: 59
+    spriteID: 75a20e0929a5be54b9365adf544f8130
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 312, y: 151}
+  - name: PlayerFishing_Frame_13
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 394
+      y: 4
+      width: 51
+      height: 60
+    spriteID: 005602bbebe189d4783cb5c9e08740aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 4}
+  - name: PlayerFishing_Frame_14
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 433
+      y: 72
+      width: 51
+      height: 61
+    spriteID: 0a73ac29d29079b4e90e50760650ec51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 433, y: 72}
+  - name: PlayerFishing_Frame_15
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 151
+      width: 51
+      height: 61
+    spriteID: 01613349a94d52e408cf9b4d072758f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 151}
+  - name: PlayerFishing_Frame_16
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 453
+      y: 4
+      width: 51
+      height: 60
+    spriteID: adfd27d71c2c07544a7efe10ae4c25b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 453, y: 4}
+  - name: PlayerFishing_Frame_17
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 135
+      y: 151
+      width: 51
+      height: 60
+    spriteID: 8b810ca873899ba48aa80bbdf0e76377
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 151}
+  - name: PlayerFishing_Frame_18
+    originalName: 
+    pivot: {x: 0.25, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 220
+      width: 50
+      height: 59
+    spriteID: 63be78549748fce40ade5b0ef64242b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 220}
+  - name: PlayerFishing_Frame_19
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 371
+      y: 151
+      width: 51
+      height: 59
+    spriteID: a8e1415d1c334d147b8c500454c94ea0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 371, y: 151}
+  - name: PlayerFishing_Frame_20
+    originalName: 
+    pivot: {x: 0.29464284, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 418
+      width: 56
+      height: 61
+    spriteID: e4d53223121527844822eede05d0b717
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 418}
+  - name: PlayerFishing_Frame_21
+    originalName: 
+    pivot: {x: 0.29999998, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 72
+      width: 55
+      height: 61
+    spriteID: ae30afb97fb71e841b3597b741bbdd9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 72}
+  - name: PlayerFishing_Frame_22
+    originalName: 
+    pivot: {x: 0.29999998, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 289
+      y: 72
+      width: 55
+      height: 60
+    spriteID: cb4bf86980789614894727e3798608cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 289, y: 72}
+  - name: PlayerFishing_Frame_23
+    originalName: 
+    pivot: {x: 0.33673468, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 430
+      y: 151
+      width: 49
+      height: 61
+    spriteID: 10a6445534f66db4eb18f2f5a168a6c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: 151}
+  - name: PlayerFishing_Frame_24
+    originalName: 
+    pivot: {x: 0.4921875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 72
+      width: 64
+      height: 96
+    spriteID: 4e3235e2448db2c4a99bd13429e89a12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 72}
+  - name: PlayerFishing_Frame_25
+    originalName: 
+    pivot: {x: 1.0166668, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 287
+      width: 30
+      height: 96
+    spriteID: b77cb326c9a88ea4e9b6c0075ae04bac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 287}
+  - name: PlayerFishing_Frame_26
+    originalName: 
+    pivot: {x: 1.1, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 391
+      width: 15
+      height: 103
+    spriteID: 1712f83abf7a134459ab8b6551b64e3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 391}
+  - name: PlayerFishing_Frame_27
+    originalName: 
+    pivot: {x: 0.7857142, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 287
+      width: 21
+      height: 94
+    spriteID: fad7b3cc8ca9ee44c87f3fb82ff2aea0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 287}
+  - name: PlayerFishing_Frame_28
+    originalName: 
+    pivot: {x: 0.26190475, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 220
+      width: 63
+      height: 45
+    spriteID: 5bceb044b572e274c8cdd441b6533272
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 220}
+  - name: PlayerFishing_Frame_29
+    originalName: 
+    pivot: {x: 0.24509805, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 151
+      width: 51
+      height: 60
+    spriteID: 4a9d9ec6f77d23048a43111d4c680495
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 151}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 2029012975
+    name: PlayerFishing
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: PlayerFishing_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 60
+      spriteId: c24d788315ed52549aee9122ab5fbead
+    - name: PlayerFishing_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 0
+        width: 104
+        height: 60
+      spriteId: cb6b89e50c917bd408bdf13fedb4567c
+    - name: PlayerFishing_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 7
+        y: 0
+        width: 64
+        height: 66
+      spriteId: b52b6c65ed1f6164985e5e096ba39db9
+    - name: PlayerFishing_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 0
+        width: 52
+        height: 76
+      spriteId: 21a55572bf974f94eb5d6c986a01048c
+    - name: PlayerFishing_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 0
+        width: 52
+        height: 76
+      spriteId: 5ba360f57b85bfd44acc3da0a856b520
+    - name: PlayerFishing_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 0
+        width: 75
+        height: 71
+      spriteId: fe8025d4c36c2a449ad4452e7472ca1c
+    - name: PlayerFishing_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 49
+        y: 0
+        width: 93
+        height: 34
+      spriteId: 548c56be7ed938646a82c703c354e011
+    - name: PlayerFishing_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 56
+        y: 0
+        width: 73
+        height: 44
+      spriteId: 5abd8572bcc644a4b9bd9da99e38b7ab
+    - name: PlayerFishing_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 58
+        y: 0
+        width: 59
+        height: 57
+      spriteId: c19c605b14f7f134bb75083d8ad2858d
+    - name: PlayerFishing_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 60
+      spriteId: 27b88c61e42b7c74ba840d1d57dac1ad
+    - name: PlayerFishing_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 60
+      spriteId: 403236616d8ca934c84077ea704e5cf6
+    - name: PlayerFishing_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 59
+      spriteId: 80fb15c5113f76c47983f5cb477d846e
+    - name: PlayerFishing_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 59
+      spriteId: 75a20e0929a5be54b9365adf544f8130
+    - name: PlayerFishing_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 60
+      spriteId: 005602bbebe189d4783cb5c9e08740aa
+    - name: PlayerFishing_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 61
+      spriteId: 0a73ac29d29079b4e90e50760650ec51
+    - name: PlayerFishing_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 61
+      spriteId: 01613349a94d52e408cf9b4d072758f5
+    - name: PlayerFishing_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 60
+      spriteId: adfd27d71c2c07544a7efe10ae4c25b4
+    - name: PlayerFishing_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 60
+      spriteId: 8b810ca873899ba48aa80bbdf0e76377
+    - name: PlayerFishing_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 50
+        height: 59
+      spriteId: 63be78549748fce40ade5b0ef64242b0
+    - name: PlayerFishing_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 59
+      spriteId: a8e1415d1c334d147b8c500454c94ea0
+    - name: PlayerFishing_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 55
+        y: 0
+        width: 56
+        height: 61
+      spriteId: e4d53223121527844822eede05d0b717
+    - name: PlayerFishing_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 55
+        y: 0
+        width: 55
+        height: 61
+      spriteId: ae30afb97fb71e841b3597b741bbdd9c
+    - name: PlayerFishing_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 55
+        y: 0
+        width: 55
+        height: 60
+      spriteId: cb4bf86980789614894727e3798608cb
+    - name: PlayerFishing_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 55
+        y: 0
+        width: 49
+        height: 61
+      spriteId: 10a6445534f66db4eb18f2f5a168a6c3
+    - name: PlayerFishing_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 40
+        y: 0
+        width: 64
+        height: 96
+      spriteId: 4e3235e2448db2c4a99bd13429e89a12
+    - name: PlayerFishing_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 0
+        width: 30
+        height: 96
+      spriteId: b77cb326c9a88ea4e9b6c0075ae04bac
+    - name: PlayerFishing_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 55
+        y: 0
+        width: 15
+        height: 103
+      spriteId: 1712f83abf7a134459ab8b6551b64e3c
+    - name: PlayerFishing_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 55
+        y: 0
+        width: 21
+        height: 94
+      spriteId: fad7b3cc8ca9ee44c87f3fb82ff2aea0
+    - name: PlayerFishing_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 55
+        y: 0
+        width: 63
+        height: 45
+      spriteId: 5bceb044b572e274c8cdd441b6533272
+    - name: PlayerFishing_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 59
+        y: 0
+        width: 51
+        height: 60
+      spriteId: 4a9d9ec6f77d23048a43111d4c680495
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 143, y: 104}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Art/Aseprite/PlayerFishing.aseprite
+  uploadId: 701437

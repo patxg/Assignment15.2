@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3041e7b71c22d0d41afbf1c8d5dadbdb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Art/Animations/GunSprintFire.anim
+  uploadId: 701437

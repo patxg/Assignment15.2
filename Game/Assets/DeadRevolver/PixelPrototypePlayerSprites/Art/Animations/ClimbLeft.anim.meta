@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21452fb26b8d36e43bf4249f7d676bb8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Art/Animations/ClimbLeft.anim
+  uploadId: 701437

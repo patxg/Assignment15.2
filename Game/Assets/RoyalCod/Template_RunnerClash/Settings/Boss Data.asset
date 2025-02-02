@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a479e33a88782a24497028e846f6a5b4, type: 3}
+  m_Name: Boss Data
+  m_EditorClassIdentifier: 
+  _bossAnimationIdle: {fileID: 7400000, guid: 1fc2af1dc78d09b4aafccb365e29b208, type: 2}
+  _bossAnimationRun: {fileID: 7400000, guid: 0b86565007e215d4b8364edb4f85c696, type: 2}
+  _bossAnimationFight: {fileID: 7400000, guid: f475200b96250404e8253c6607b97e87, type: 2}
+  _bossAnimationDeath: {fileID: 7400000, guid: 3099ffbf8fe8f5b4f91c694306aac471, type: 2}
+  _bossAnimationWin: {fileID: 7400000, guid: 0005ac4cb9cad76428b994d633d82d50, type: 2}
+  _fightAnimHitMoment: 0.25
+  _fightDistance: 2
+  _damage: 5
+  _hp: 15

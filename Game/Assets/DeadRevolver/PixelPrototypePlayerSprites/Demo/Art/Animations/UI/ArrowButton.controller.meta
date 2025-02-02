@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7635b2269e9a2574cbbcfae8326ffaf4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Demo/Art/Animations/UI/ArrowButton.controller
+  uploadId: 701437

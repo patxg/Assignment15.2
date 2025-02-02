@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f37da6ac3fccfc74e908b8b7e4b9f3c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Art/Animations/ClimbDownRight.anim
+  uploadId: 701437

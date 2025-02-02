@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f759b5b1f3a7e194ca339e3c5294be7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221542
+  packageName: Pixel Prototype Player Sprites
+  packageVersion: 1.3
+  assetPath: Assets/DeadRevolver/PixelPrototypePlayerSprites/Presets/TextureImporter.preset
+  uploadId: 701437
